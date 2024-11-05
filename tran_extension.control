@@ -1,0 +1,4 @@
+comment = 'TRANManager Extension Package'
+default_version = '0.0.5'
+module_pathname = '$libdir/tran_extension'
+relocatable = true
